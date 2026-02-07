@@ -8,3 +8,4 @@ Daniel Hale: https://github.com/spencerM20/Team-Exercise-mittagspause-316/pull/1
 
 Niko Taylor: https://github.com/Alec-Swanson/Feierabend-Story/pull/16
 
+Ezequiel L Silva: https://github.com/dreynolds5/verschnaufpause_StoryTime/pull/10
